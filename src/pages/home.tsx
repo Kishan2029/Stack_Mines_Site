@@ -4,9 +4,9 @@ import Stake from "../components/Stake"
 
 const Home = () => {
   return (
-    <div >
+    <div className="h-screen">
         <Navbar/>
-        <div>
+        <div className="h-[90%]  bg-mainBagCol">
           <Stake/>
         </div>
         

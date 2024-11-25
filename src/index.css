@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --grayNavbar: #202c3c;
+  --mainBagCol: #202c3c;
+}

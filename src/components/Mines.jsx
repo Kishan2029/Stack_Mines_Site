@@ -1,8 +1,6 @@
-
-
 const Mines = () => {
   return (
-    <div>Mines</div>
+    <div className="bg-green-50">Mines</div>
   )
 }
 

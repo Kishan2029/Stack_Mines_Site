@@ -2,7 +2,7 @@
 
 const Calculation = () => {
   return (
-    <div>Calculation</div>
+    <div className="bg-blue-50">Calculation</div>
   )
 }
 
