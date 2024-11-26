@@ -5,4 +5,9 @@
 :root {
   --grayNavbar: #202c3c;
   --mainBagCol: #202c3c;
+
+  --calBagCol: #283444;
+  --mineBagCol: #10242c;
+
+  --BetButtonBagCol: #08e404;
 }

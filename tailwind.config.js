@@ -8,7 +8,9 @@ export default {
     extend: {
       colors: {
         "navBg": "var(--grayNavbar)",
-        "secondary-color": "var(--secondary-color)"
+        "calBg": "var(--calBagCol)",
+        "betButtonBg":"var(--BetButtonBagCol)", 
+        "mineBagCol": "var(--mineBagCol)"
       },
     },
   },
